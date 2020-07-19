@@ -1,2 +1,2 @@
 # networkscanner
-Print("hello test")
+THIS IS A TEST ONLY
