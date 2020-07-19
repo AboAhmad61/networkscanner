@@ -1,1 +1,2 @@
 # networkscanner
+Print("hello test")
